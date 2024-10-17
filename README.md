@@ -32,7 +32,7 @@ The corresponding codes may be uploaded to this project.
 
 Mod can be found and subscripted in [Steam Community Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2805969793).
 
-> Change the moggles‘ nightvision circuit of WX78 to a more comfortable look. Only worked at night when you activate the nightvision module. Will not affect the original color of the world seasons.
+> Change the moggles‘ nightvision circuit of WX78 to a more comfortable look. It only works at night when you activate the night vision module. It will not affect the original color of the world seasons.
 > 
 > Updates:
 > version:1.0.0 publish.
@@ -50,7 +50,10 @@ Mod can be found and subscripted in [Steam Community Workshop](https://steamcomm
 
 Mod can be found and subscripted in [Steam Community Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2795065330).
 
-> Enhance the 6 charger to 24 charger. And each charger needs 15 seconds to fill the energy. Have to use in the beta version if you are not beta version. Version: 1.0.2. Mod Name changes from WX78 24 electronic charge to WX78 DIY chargers 6 to 24. Updates: Now you can choose the chargers number from 6 to 24. Besides, the power regeneration speed is also adjustable from 0.25 to 3 times. Available in formal version.
+> Enhance the 6 charger to 24 charger. And each charger needs 15 seconds to fill the energy. You have to use the beta version if you are not the beta version.
+>
+> Version: 1.0.2. Mod Name changes from WX78 24 electronic charge to WX78 DIY chargers 6 to 24.
+> Updates: Now, you can choose the charger number from 6 to 24. Besides, the power regeneration speed is also adjustable from 0.25 to 3 times. Available in a formal version.
 
 - Unique Vistors: 10,177
 - Current Subscribers: 2,155
@@ -65,26 +68,26 @@ Mod can be found and subscripted in [Steam Community Workshop](https://steamcomm
 
 Mod can be found and subscripted in [Steam Community Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2771495175).
 
-> First I enhance the Wigfrid character by some general properties.
-> Second make Wigfrid could eat veggies as well.
-> Third I combine the ability of Wortox which is the soulstealer. U can use the soul to heal, eat or jump the same as Wortox. Also with the Wortox + Wickerbottom + Winona + Wanda special crafts.
-> Forth I added 6 Recipes to craft.
+> 1. I enhance the Wigfrid character with some general properties.
+> 2. Wigfrid could eat veggies as well.
+> 3. I combine the ability of Wortox, which is the soul stealer. You can use the soul to heal, eat, or jump, the same as Wortox. In addition, you are able to craft the special crafts of Wortox + Wickerbottom + Winona + Wanda.
+> 4. I added 6 Recipes to the craft.
 > 
 > 
-> Update the :
-> heath 200 to 250
-> santiy 120 to 200
-> hungry 110 to 200
+> Updates:
+> Heath 200 to 250
+> Sanity 120 to 200
+> Hungry 110 to 200
 > Wigfrid damage mult from 1.25 to 1.45
 > Wigfrid absorption from 0.25 to 0.35
-> Wigfrid spear use from 200 to 300
+> Wigfrid spear used from 200 to 300
 > Wigfrid spear damage from 42.5 to 50
 > Wigrid hat use from 5 time to 7.5 times
 > Wigrid hat damge absorption from 0.8 to 0.85
 > Wigfrid hat waterproof 0.25 to 0.5
 > Starting with 1 hat, 1 spear and 8 meats and 4 souls.
-
-
+>
+> 
 > 1: lureplantbulb: seeds*2, papyrus*1
 > 2: boneshard: houndstooth*2
 > 3: livinglog: log*2, nightmarefuel*1
