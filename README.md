@@ -53,6 +53,7 @@ Mod can be found and subscripted in [Steam Community Workshop](https://steamcomm
 > Enhance the 6 charger to 24 charger. And each charger needs 15 seconds to fill the energy. You have to use the beta version if you are not the beta version.
 >
 > Version: 1.0.2. Mod Name changes from WX78 24 electronic charge to WX78 DIY chargers 6 to 24.
+> 
 > Updates: Now, you can choose the charger number from 6 to 24. Besides, the power regeneration speed is also adjustable from 0.25 to 3 times. Available in a formal version.
 
 - Unique Vistors: 10,177
@@ -75,16 +76,27 @@ Mod can be found and subscripted in [Steam Community Workshop](https://steamcomm
 > 
 > 
 > Updates:
+> 
 > Heath 200 to 250
+>
 > Sanity 120 to 200
+>
 > Hungry 110 to 200
+>
 > Wigfrid damage mult from 1.25 to 1.45
+>
 > Wigfrid absorption from 0.25 to 0.35
+>
 > Wigfrid spear used from 200 to 300
+>
 > Wigfrid spear damage from 42.5 to 50
+>
 > Wigrid hat use from 5 time to 7.5 times
+>
 > Wigrid hat damge absorption from 0.8 to 0.85
+>
 > Wigfrid hat waterproof 0.25 to 0.5
+>
 > Starting with 1 hat, 1 spear and 8 meats and 4 souls.
 >
 > 
