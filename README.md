@@ -15,13 +15,13 @@ The corresponding codes may be uploaded to this project.
 
 ## Content 
 
-1. [WX78 Nightvision filter (夜视滤镜)](#WX78 Nightvision filter (夜视滤镜))
-2. [WX78 DIY chargers 6 to 24 (自定义插槽)](#WX78 DIY chargers 6 to 24 (自定义插槽))
-3. [Wigfrid (Wortox + Wickerbottom + Winona + Wanda) + Staff Craft](#Wigfrid (Wortox + Wickerbottom + Winona + Wanda) + Staff Craft)
-4. [WX78 electronic module forever](#WX78 electronic module forever)
-5. [Wigfrid (Wortox + Wickerbottom + Winona) + Staff Craft](#Wigfrid (Wortox + Wickerbottom + Winona) + Staff Craft)
-6. [Wigfrid (Wortox + Wickerbottom) + Staff Craft](#Wigfrid (Wortox + Wickerbottom) + Staff Craft)
-7. [Wigfrid (Wortox) + Staff Craft](#Wigfrid (Wortox) + Staff Craft)
+1. [WX78 Nightvision filter (夜视滤镜)](#wx78-nightvision-filter-夜视滤镜)
+2. [WX78 DIY chargers 6 to 24 (自定义插槽)](#wx78-diy-chargers-6-to-24-自定义插槽)
+3. [Wigfrid (Wortox + Wickerbottom + Winona + Wanda) + Staff Craft](#wigfrid-wortox-wickerbottom-winona-wanda-staff-craft)
+4. [WX78 electronic module forever](#wx78-electronic-module-forever)
+5. [Wigfrid (Wortox + Wickerbottom + Winona) + Staff Craft](#wigfrid-wortox-wickerbottom-winona-staff-craft)
+6. [Wigfrid (Wortox + Wickerbottom) + Staff Craft](#wigfrid-wortox-wickerbottom-staff-craft)
+7. [Wigfrid (Wortox) + Staff Craft](#wigfrid-wortox-staff-craft)
 
 
 
