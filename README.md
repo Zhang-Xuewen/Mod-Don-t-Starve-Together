@@ -1,5 +1,7 @@
 # Mods for Don't Starve Together
 
+<img width="662" alt="QiYuan Steam Workshop" src="https://github.com/user-attachments/assets/6a5620c5-2b9f-4ff0-b3a7-a4f2deaeb632">
+
 A collection of the mods developed for Don't Starve Together by QiYuan (Xuewen Zhang).
 
 I used to be a super fan of **Don't Starve Together** and **Don't Starve**. At that time, I made several mods for them just for fun.
